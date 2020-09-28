@@ -1,4 +1,5 @@
 blank_issue_enabled: false
-contact_lines:
+contact_links:
   - name: Support
-    url: www.company.com
+    url: https://www.company.com
+    about: Saiba mais sobre os templates
